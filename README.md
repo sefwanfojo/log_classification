@@ -1,16 +1,6 @@
 # Log Classification System Using Llama LLM, NLP, Regex, BERT
----
-**Objective: This project uses a hybrid system to classify log messages by combining three different methods. Each method is suited for handling different types of log patterns — from simple and predictable to complex and unclear. This makes the system flexible and effective for analyzing various kinds of log data.**
----
-Project from codebasics
-github clone?
-need to upload code
-readme from google docs
-images
 
-# Log Classification With Hybrid Classification Framework
-
-This project implements a hybrid log classification system, combining three complementary approaches to handle varying levels of complexity in log patterns. The classification methods ensure flexibility and effectiveness in processing predictable, complex, and poorly-labeled data patterns.
+This project uses a hybrid system to classify log messages by combining three different methods. Each method is suited for handling different types of log patterns — from simple and predictable to complex and unclear. This makes the system flexible and effective for analyzing various kinds of log data.
 
 ---
 
