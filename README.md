@@ -42,7 +42,7 @@ This project uses a hybrid system to classify log messages by combining three di
 ## Setup Instructions
 
 1. **Install Dependencies**:
-   Make sure you have Python installed on your system. Install the required Python libraries by running the following command:
+   Install the required Python libraries by running the following command:
 
    ```bash
    pip install -r requirements.txt
